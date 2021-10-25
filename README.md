@@ -16,7 +16,7 @@
   <li>React-native</li>
 </ul>
 
-![conversorDeMoedasGif](https://user-images.githubusercontent.com/82960240/138719365-2ff211f1-6b20-47d4-ba80-eb5464f596f4.gif)
+![appConversorDeMoedalSmallGif](https://user-images.githubusercontent.com/82960240/138720047-3ba4a323-6756-44be-b1f9-020773029e55.gif)
 
 
 <h3>Autor</h3>
