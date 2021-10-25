@@ -5,7 +5,7 @@
 <br />
 <h3>Front-end:</h3>
 <ul>
-  <li>JS</li>
+  <li>JavaScript</li>
 </ul>
 <h3>Back-end:</h3>
 <ul>
@@ -16,6 +16,7 @@
   <li>React-native</li>
 </ul>
 
+![conversorDeMoedasGif](https://user-images.githubusercontent.com/82960240/138719365-2ff211f1-6b20-47d4-ba80-eb5464f596f4.gif)
 
 
 <h3>Autor</h3>
