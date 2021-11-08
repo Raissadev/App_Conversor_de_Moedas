@@ -1,17 +1,17 @@
-# App_Conversor_de_Moedas
-<h2>Sobre o Projeto</h2>
+# App Conversor de Moedas
+<h3>Sobre o Projeto</h3>
 <p>Coversor de moedas simples e atraente. 😊</p>
-<h3>Front-end:</h3>
+
 <ul>
-  <li>JavaScript</li>
-</ul>
-<h3>Back-end:</h3>
-<ul>
-  <li>Database: Firebase</li>
-</ul>
-<h3>Stacks:</h3>
-<ul>
-  <li>React-native</li>
+  <li>Lenguages:</li>
+  <i>JavaScript</i>
+  
+  <li>Database:</li>
+  <i>Firebase</i>
+  
+  <li>Stack:</li>
+  <i>React-native</i>
+  
 </ul>
 
 ![appConversorDeMoedalSmallGif](https://user-images.githubusercontent.com/82960240/138720047-3ba4a323-6756-44be-b1f9-020773029e55.gif)
